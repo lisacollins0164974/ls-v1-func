@@ -1,0 +1,28 @@
+{
+  "name": "ls-v1-func",
+  "version": "1.0.0",
+  "description": "Ls-v1-func is a Node.js module that provides functions for encryption and decryption using the Enigma machine algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisacollins0164974/ls-v1-func"
+  },
+  "dependencies": {
+	  "v2-sharondavis": "1.0.0",
+"sandrajones": "1.0.0",
+"kennethallen": "1.0.0",
+"ruththompson": "1.0.0",
+"grommailpasha": "1.0.0",
+"carolscott": "1.0.0",
+    "crypto-js": "^4.1.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisacollins0164974/ls-v1-func/issues"
+  },
+  "homepage": "https://github.com/lisacollins0164974/ls-v1-func#readme"
+}
